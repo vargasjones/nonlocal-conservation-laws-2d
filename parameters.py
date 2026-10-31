@@ -1,0 +1,10 @@
+Nx = 2000
+Ny = 500
+x_min = 0
+x_max = 10
+y_min = 0
+y_max = 5
+eps = 0.3
+rho_max = 1.0
+delta_x=(x_max - x_min)/Nx
+delta_y=(y_max - y_min)/Ny
